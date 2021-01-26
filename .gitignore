@@ -1,5 +1,7 @@
-# default gitignore for go
+# ignore API_KEY
+API_KEY.txt
 
+# default gitignore for go
 .DS_Store
 *.[56789ao]
 *.a[56789o]
